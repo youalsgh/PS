@@ -8,7 +8,7 @@ public class EX_01002 {
 		Scanner sc = new Scanner(System.in);
 		int a = sc.nextInt();
 		int b = sc.nextInt();
-		adfsadfasdfasdfsafd
+		adfsadfasdfasdfsafdxsaxaxxsax
 		System.out.println(a+b);
 	}
 
